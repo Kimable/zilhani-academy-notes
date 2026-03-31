@@ -109,20 +109,16 @@ const config = {
             title: "IGCSE Notes",
             items: [
               {
-                label: "Mathematics",
-                to: "/notes/igcse/mathematics/",
+                label: "Computer Science",
+                to: "/docs/igcse/computer-science/intro",
               },
               {
                 label: "Physics",
-                to: "/notes/igcse/physics/",
+                to: "/docs/igcse/physics/intro",
               },
               {
-                label: "Business Studies",
-                to: "/notes/igcse/business/",
-              },
-              {
-                label: "Economics",
-                to: "/notes/igcse/economics/",
+                label: "Geography",
+                to: "/docs/igcse/geography/intro",
               },
             ],
           },
