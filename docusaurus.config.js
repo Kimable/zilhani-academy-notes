@@ -87,6 +87,11 @@ const config = {
             label: "IGCSE Notes",
           },
           {
+            href: "/subjects",
+            label: "Subjects",
+            position: "left",
+          },
+          {
             href: "https://zilhaniacademy.com/apply",
             label: "Enroll",
             position: "left",
