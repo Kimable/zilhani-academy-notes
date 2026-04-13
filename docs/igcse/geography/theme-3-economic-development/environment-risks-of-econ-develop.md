@@ -1,6 +1,6 @@
 ---
-title: Environmental Risks Of Economic Development
-sidebar_position: 1
+title: 7. Environmental Risks Of Economic Development
+sidebar_position: 7
 ---
 
 

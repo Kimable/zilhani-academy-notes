@@ -1,9 +1,7 @@
 ---
-title: Tourism
-sidebar_position: 1
+title: 4. Tourism
+sidebar_position: 4
 ---
-
-
 
 
 # **IGCSE Geography – Tourism**
